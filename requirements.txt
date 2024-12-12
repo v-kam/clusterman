@@ -1,0 +1,12 @@
+streamlit
+polars
+pandas
+numpy
+scikit-learn
+langchain
+langchain-openai
+python-dotenv
+tqdm
+more-itertools
+nest-asyncio
+matplotlib 
